@@ -43,5 +43,5 @@ export const Receiver = () => {
     };
   }
 
-  return <div></div>;
+  return <div>receiver</div>;
 };
